@@ -40,35 +40,35 @@ With a few modifications to the NVIDIA Control Panel, you may increase performan
 
 If you desire better visuals and smoother performance without updating your computer, a few key adjustments in the NVIDIA Control Panel can make a significant difference.
 
-**1] Open the NVIDIA Control Panel**
+<h3>1] Open the NVIDIA Control Panel</h3>
 
 Right-click anywhere on your desktop and select NVIDIA Control Panel. This is where all of your <a href="https://github.com/adam-maj/tiny-gpu">GPU</a> settings are stored.
 
-**2] Set the Power Management to Maximum Performance**
+<h3>2] Set the Power Management to Maximum Performance</h3>
 
 Go to Manage 3D Settings > Power Management Mode, then select Prefer maximum performance. This guarantees that your GPU operates at maximum power when required.
 
-**3] Turn on G-Sync (if your monitor supports it)**
+<h3>3] Turn on G-Sync (if your monitor supports it)</h3>
 
 Go to Display> Set Up G-Sync and activate it. This prevents screen tearing and improves gaming performance.
 
-**4] Enable the low-latency mode**
+<h3>4] Enable the low-latency mode</h3>
 
 Select Ultra for Low Latency Mode under Manage 3D Settings. This reduces input delay and is excellent for fast-paced games.
 
-**5] Turn on threading optimization**
+<h3>5] Turn on threading optimization</h3>
 
 Set Threaded Optimization to Auto. This enables the GPU to utilize multiple CPU cores more effectively, which improves performance in some games.
 
-**6] Adjust Image Settings with Preview**
+<h3>6] Adjust Image Settings with Preview</h3>
 
 On the main panel, click Adjust image settings with preview, then choose Use the advanced 3D image settings for complete control over how games look and run.
 
-**7] Set the anisotropic filtering to 16x**
+<h3>7] Set the anisotropic filtering to 16x</h3>
 
 Change Anisotropic Filtering to 16x in the Manage 3D Settings window. This makes textures appear more clearly, especially from an angle.
 
-**8] Set the Vertical Sync (V-Sync) to Fast or Off**
+<h3>8] Set the Vertical Sync (V-Sync) to Fast or Off</h3>
 
 Depending on your Display and game, switching from V-Sync to Fast can reduce tearing while adding minor input lag. You can also turn it off to minimize latency.
 
